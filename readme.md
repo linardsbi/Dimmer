@@ -7,4 +7,4 @@ Going to port it in the future and add an API; for now using serial input to cha
 
 ## Serial syntax
 
-Send values over in either this: "<red value>,<green value>,<blue value>," (all values are optional), or this: "<color name>:<color value>," format.
+Send values over in either this: "`<red value>,<green value>,<blue value>,`" (all values are optional), or this: "`<color name>:<color value>,`" format.
